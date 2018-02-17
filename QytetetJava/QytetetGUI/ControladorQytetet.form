@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ac" green="9f" red="9b" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jSeparator1" max="32767" attributes="0"/>
+                              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="VenderPropiedad" alignment="0" pref="187" max="32767" attributes="0"/>
+                                  <Component id="ConstruirHotel" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="ConstruirCasa" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="HipotecarPropiedad" pref="208" max="32767" attributes="0"/>
+                                  <Component id="CancelarHipoteca" max="32767" attributes="0"/>
+                                  <Component id="Elegir" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Comprar" pref="181" max="32767" attributes="0"/>
+                          <Component id="AplicarSorpresa" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="34" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Jugar" max="32767" attributes="0"/>
+                          <Component id="SiguienteJugador" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="CarcelDado" max="32767" attributes="0"/>
+                          <Component id="CarcelPagar" pref="189" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Component id="vistaQytetet" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="vistaQytetet" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="CarcelPagar" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="CarcelDado" min="-2" pref="46" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="Jugar" min="-2" pref="67" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="SiguienteJugador" min="-2" pref="69" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="AplicarSorpresa" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="87" max="-2" attributes="0"/>
+                              <Component id="Comprar" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                      <Component id="jSeparator1" min="-2" pref="18" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="ConstruirCasa" min="-2" max="-2" attributes="0"/>
+                          <Component id="HipotecarPropiedad" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="ConstruirHotel" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Elegir" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="VenderPropiedad" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="CancelarHipoteca" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="Jugar">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/jugar.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Jugar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JugarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="CarcelDado">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/dado.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Salir tirando dado"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CarcelDadoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="CarcelPagar">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/pagar.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Salir pagando libertad"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CarcelPagarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Comprar">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/comprar.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Comprar Propiedad"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ComprarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="AplicarSorpresa">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/sorpresa.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Aplicar Sorpresa"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="AplicarSorpresaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="SiguienteJugador">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/siguiente.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Siguiente Jugador"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SiguienteJugadorActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="fe" green="fe" red="fe" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="null"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="ConstruirCasa">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/casa.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Construir Casa"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Construir casa"/>
+      </AccessibilityProperties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ConstruirCasaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ConstruirHotel">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/hotel.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Construir Hotel"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ConstruirHotelActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="VenderPropiedad">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/vender.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Vender Propiedad"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VenderPropiedadActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="HipotecarPropiedad">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/hipotecar.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Hipotecar Propiedad"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="HipotecarPropiedadActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="CancelarHipoteca">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/QytetetGUI/cancelarHipoteca.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Cancelar Hipoteca"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CancelarHipotecaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Elegir">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Item 1"/>
+            <StringItem index="1" value="Item 2"/>
+            <StringItem index="2" value="Item 3"/>
+            <StringItem index="3" value="Item 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ElegirActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="QytetetGUI.VistaQytetet" name="vistaQytetet">
+    </Component>
+  </SubComponents>
+</Form>
