@@ -4,6 +4,9 @@
 //   | |_| | | |_| | | |_  |  __/ | |_  |  __/ | |_ 
 //    \__\_\  \__, |  \__|  \___|  \__|  \___|  \__|
 //            |___/                                 
+//
+//   El mejor juego desarollado en la historia de la humanidad
+
 package InterfazTextualQytetet;
 
 import java.util.ArrayList;

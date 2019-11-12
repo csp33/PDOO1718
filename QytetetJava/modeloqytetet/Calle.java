@@ -79,10 +79,8 @@ public class Calle extends Casilla {
     }
 
     int cancelarHipoteca() {
-        int aPagar;
         titulo.setHipotecada(false);
-        aPagar = getCosteHipoteca();
-        return aPagar;
+        return getCosteHipoteca();
     }
 
     int edificarCasa() {
